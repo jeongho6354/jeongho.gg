@@ -194,6 +194,7 @@ body {
  <div class = "freeinfo">
   	 <%if(queueType.equals("RANKED_FLEX_SR")){%>
  	 	<h2>자유랭크</h2>
+ 	 	<h3>테스트 커밋</h3>
  	<%
 	if(tier.equals("IRON")){
 		%>
